@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "따라 하는 C복습"
+---
+
+#C언어 시작 Hello World! 출력하기.
+
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello, world!");
+	
+
+	return 0;
+}
